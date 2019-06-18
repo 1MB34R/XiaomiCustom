@@ -13,6 +13,6 @@ __avvertenze__:  Non sono responsabile per i danni arrecati ai vostri dispositiv
                  Prestate attenzione alla procedura per la customizzazione, il software e' testato in ogni sua funzione e non sbaglia voi invece potreste sbagliare   
 __info extra__:  La procedura e' basata sull'aggiornamento V10.0.9.0.PDLMIXM (Android P), per tanto utilizzare il software solo dopo esservi assicurati di avere questa versione nel vostro device
                  La procedura di ReStock riportera' il vostro device a tale versione, per modificare questa versione, modificare la cartella rs eliminando dal suo interno la cartella images e mettendo quella contenuta nella nuova vesione scaricata dal sito ufficiale MIUI.
-__links__: GitHub: https://github.com/lucapuzzoni
+__links__: GitHub: https://github.com/1MB34R
              MIUI: https://en.miui.com/
          Last ROM: https://en.miui.com/download-354.html
